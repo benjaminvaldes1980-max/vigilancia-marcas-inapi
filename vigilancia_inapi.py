@@ -48,7 +48,7 @@ NOMBRE_INICIO = "Vigilancia Marcas INAPI"   # nombre en "Aplicaciones de inicio"
 CLAVE_RUN = r"Software\Microsoft\Windows\CurrentVersion\Run"
 
 # ---------------------------------------------------------------- ajustes fijos
-VERSION = "1.5"
+VERSION = "1.6"
 URL_PAGINA = "https://tramites.inapi.cl/EstadosDiariosMarcas"
 TIPOS = {
     "5": "Presentaciones (solicitudes nuevas)",
@@ -580,8 +580,11 @@ def analizar(doc, texto, claves):
 
 
 # ---------------------------------------------------------------- INAPI
-RX_ENLACE = re.compile(r"(?:https?://tramites\.inapi\.cl)?/Trademark/TrademarkDailyStatus/DownloadFile\?[^\"'\s<>]+",
+# ojo: INAPI pone la fecha con espacios dentro del enlace ("04/11/2026 12:00:00 a. m."),
+# así que el enlace termina en la comilla, no en el primer espacio
+RX_ENLACE = re.compile(r"(?:https?://tramites\.inapi\.cl)?/Trademark/TrademarkDailyStatus/DownloadFile\?[^\"'<>\n]+",
                        re.I)
+DIAS_A_REVISAR = 30   # la página trae todo el historial; solo se revisan los últimos días
 UA_EDGE = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) "
            "Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0")
 SIN_VENTANA = 0x08000000 if os.name == "nt" else 0
@@ -591,8 +594,9 @@ def extraer_documentos(texto):
     """Busca los enlaces DownloadFile (en HTML o en JSON) y arma la lista de documentos."""
     pagina = html.unescape(texto or "").replace("\\u0026", "&").replace("\\/", "/")
     docs = {}
+    limite = (datetime.date.today() - datetime.timedelta(days=DIAS_A_REVISAR)).isoformat()
     for m in RX_ENLACE.finditer(pagina):
-        url = urljoin(URL_PAGINA, m.group(0))
+        url = urljoin(URL_PAGINA, m.group(0).strip().replace(" ", "%20"))
         q = parse_qs(urlparse(url).query)
         tipo = q.get("dailyStatesTypeId", [""])[0]
         sid = q.get("stream_id", [""])[0]
@@ -603,6 +607,8 @@ def extraer_documentos(texto):
             fecha = datetime.datetime.strptime(fd[:10], "%d/%m/%Y").date().isoformat()
         except ValueError:
             fecha = fd[:10]
+        if len(fecha) == 10 and fecha < limite:
+            continue
         docs[sid] = {"url": url, "tipo": tipo, "fecha": fecha, "stream_id": sid}
     return sorted(docs.values(), key=lambda d: (d["fecha"], d["tipo"]))
 
