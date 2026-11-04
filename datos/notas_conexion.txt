@@ -1,0 +1,5 @@
+2026-11-04 18:01:21
+Vía directa sin enlaces: HTTP 200, 679986 caracteres
+Navegador usado: msedge
+Petición 200 https://salesiq.zohopublic.com/visitor/v3/channels/website?widget_code=siqe04e6026488690c5cfad17f79a62fb74abc0aa6c6f17df69a7aa9beaa6a0d4ce&page_title=Estados+Di (35055 car.)
+Petición 200 https://salesiq.zohopublic.com/visitor/v2/inapichile/livevisitors/9846b1ed-d02e-4506-9f34-72f2f21c2ff6/triggers (180 car.)

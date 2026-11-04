@@ -1,0 +1,15 @@
+2026-11-04 18:00:45  Leyendo la página de Estados Diarios de INAPI...
+2026-11-04 18:00:48  La página de INAPI arma el listado con JavaScript: la leo con el navegador (invisible)...
+2026-11-04 18:01:21  ERROR: Traceback (most recent call last):
+  File "/home/runner/work/vigilancia-marcas-inapi/vigilancia-marcas-inapi/vigilancia_inapi.py", line 1564, in main
+    revisar(manual, inicio)
+  File "/home/runner/work/vigilancia-marcas-inapi/vigilancia-marcas-inapi/vigilancia_inapi.py", line 990, in revisar
+    _revisar(fuente, requests, manual, inicio)
+  File "/home/runner/work/vigilancia-marcas-inapi/vigilancia-marcas-inapi/vigilancia_inapi.py", line 1012, in _revisar
+    docs = fuente.listar()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/work/vigilancia-marcas-inapi/vigilancia-marcas-inapi/vigilancia_inapi.py", line 652, in listar
+    raise RuntimeError("No encontré los enlaces de los Estados Diarios en la página de INAPI, ni "
+RuntimeError: No encontré los enlaces de los Estados Diarios en la página de INAPI, ni leyéndola directo ni con el navegador. Puede que el sitio haya cambiado.
+
+2026-11-04 18:01:21  Diagnóstico generado: /home/runner/work/vigilancia-marcas-inapi/vigilancia-marcas-inapi/diagnostico/Diagnostico_Vigilancia_INAPI_2026-11-04_1801.zip
