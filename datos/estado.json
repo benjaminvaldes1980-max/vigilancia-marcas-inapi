@@ -1,0 +1,302 @@
+{
+ "procesados": {
+  "4515df36-c5c0-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-05",
+   "tipo": "2",
+   "marcas": 888,
+   "coincidencias": 2
+  },
+  "1d624967-8bc1-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-05",
+   "tipo": "5",
+   "marcas": 284,
+   "coincidencias": 1
+  },
+  "f4779b69-8ec1-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-06",
+   "tipo": "2",
+   "marcas": 1276,
+   "coincidencias": 0
+  },
+  "8ab82659-4cc2-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-06",
+   "tipo": "5",
+   "marcas": 310,
+   "coincidencias": 0
+  },
+  "2bca6a9b-57c2-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-07",
+   "tipo": "2",
+   "marcas": 1257,
+   "coincidencias": 0
+  },
+  "226927fa-1bc3-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-07",
+   "tipo": "5",
+   "marcas": 308,
+   "coincidencias": 0
+  },
+  "0bcc4ad6-20c3-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-08",
+   "tipo": "2",
+   "marcas": 951,
+   "coincidencias": 1
+  },
+  "c392c58b-e1c3-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-08",
+   "tipo": "5",
+   "marcas": 330,
+   "coincidencias": 0
+  },
+  "223638dd-e9c3-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-09",
+   "tipo": "2",
+   "marcas": 734,
+   "coincidencias": 0
+  },
+  "05d28a59-07c7-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-09",
+   "tipo": "5",
+   "marcas": 425,
+   "coincidencias": 0
+  },
+  "eb887b8a-0ec7-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-13",
+   "tipo": "2",
+   "marcas": 757,
+   "coincidencias": 1
+  },
+  "1fb7cd24-cfc7-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-13",
+   "tipo": "5",
+   "marcas": 248,
+   "coincidencias": 0
+  },
+  "f499c8c5-d7c7-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-14",
+   "tipo": "2",
+   "marcas": 1231,
+   "coincidencias": 5
+  },
+  "2e2151be-9ac8-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-14",
+   "tipo": "5",
+   "marcas": 293,
+   "coincidencias": 0
+  },
+  "132c6a07-a1c8-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-15",
+   "tipo": "2",
+   "marcas": 1027,
+   "coincidencias": 0
+  },
+  "39aeb490-63c9-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-15",
+   "tipo": "5",
+   "marcas": 278,
+   "coincidencias": 0
+  },
+  "5cb9090f-6ac9-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-16",
+   "tipo": "2",
+   "marcas": 1014,
+   "coincidencias": 1
+  },
+  "0fd38603-bdcb-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-16",
+   "tipo": "5",
+   "marcas": 389,
+   "coincidencias": 0
+  },
+  "ce893fc0-c5cb-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-19",
+   "tipo": "2",
+   "marcas": 940,
+   "coincidencias": 0
+  },
+  "3f17cf25-8acc-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-19",
+   "tipo": "5",
+   "marcas": 284,
+   "coincidencias": 0
+  },
+  "a30041b6-8ecc-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-20",
+   "tipo": "2",
+   "marcas": 1410,
+   "coincidencias": 2
+  },
+  "a26d05d1-5ecd-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-20",
+   "tipo": "5",
+   "marcas": 375,
+   "coincidencias": 0
+  },
+  "093d44fb-5ecd-f111-8959-040973dcfef1": {
+   "fecha": "2026-10-21",
+   "tipo": "2",
+   "marcas": 1096,
+   "coincidencias": 0
+  },
+  "d8f80cb2-18ce-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-21",
+   "tipo": "5",
+   "marcas": 267,
+   "coincidencias": 0
+  },
+  "ea0d0b38-21ce-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-22",
+   "tipo": "2",
+   "marcas": 943,
+   "coincidencias": 1
+  },
+  "879cedc0-e1ce-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-22",
+   "tipo": "5",
+   "marcas": 355,
+   "coincidencias": 0
+  },
+  "17ced549-eace-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-23",
+   "tipo": "2",
+   "marcas": 1100,
+   "coincidencias": 2
+  },
+  "7214effa-40d1-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-23",
+   "tipo": "5",
+   "marcas": 379,
+   "coincidencias": 1
+  },
+  "00d77bb0-45d1-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-26",
+   "tipo": "2",
+   "marcas": 1180,
+   "coincidencias": 1
+  },
+  "b8f2f194-0cd2-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-26",
+   "tipo": "5",
+   "marcas": 301,
+   "coincidencias": 0
+  },
+  "7aeb34e4-0ed2-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-27",
+   "tipo": "2",
+   "marcas": 872,
+   "coincidencias": 0
+  },
+  "f76e4aa6-cfd2-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-27",
+   "tipo": "5",
+   "marcas": 327,
+   "coincidencias": 0
+  },
+  "5c526829-d8d2-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-28",
+   "tipo": "2",
+   "marcas": 931,
+   "coincidencias": 1
+  },
+  "fb8e3fb0-99d3-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-28",
+   "tipo": "5",
+   "marcas": 408,
+   "coincidencias": 0
+  },
+  "4cfb302f-a1d3-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-29",
+   "tipo": "2",
+   "marcas": 1063,
+   "coincidencias": 1
+  },
+  "c0609389-65d4-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-29",
+   "tipo": "5",
+   "marcas": 219,
+   "coincidencias": 0
+  },
+  "f83d9c62-6ad4-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-30",
+   "tipo": "2",
+   "marcas": 1238,
+   "coincidencias": 1
+  },
+  "9ed10b6c-c3d6-f111-895b-040973dcfef1": {
+   "fecha": "2026-10-30",
+   "tipo": "5",
+   "marcas": 396,
+   "coincidencias": 1
+  },
+  "526c4b0a-c6d6-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-02",
+   "tipo": "2",
+   "marcas": 1318,
+   "coincidencias": 1
+  },
+  "db9600ae-83d7-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-02",
+   "tipo": "5",
+   "marcas": 295,
+   "coincidencias": 0
+  },
+  "4b42301e-8fd7-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-03",
+   "tipo": "2",
+   "marcas": 727,
+   "coincidencias": 0
+  },
+  "d8545970-4ed8-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-03",
+   "tipo": "5",
+   "marcas": 360,
+   "coincidencias": 0
+  },
+  "29e8f237-58d8-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-04",
+   "tipo": "2",
+   "marcas": 1228,
+   "coincidencias": 0
+  }
+ },
+ "vistos": [
+  "00d77bb0-45d1-f111-895b-040973dcfef1|1675424|Amor por la Marca",
+  "0bcc4ad6-20c3-f111-8959-040973dcfef1|1693449|Amor por la Marca",
+  "17ced549-eace-f111-895b-040973dcfef1|1677043|Amor por la Marca",
+  "17ced549-eace-f111-895b-040973dcfef1|1687168|Amor por la Marca",
+  "1d624967-8bc1-f111-8959-040973dcfef1|516681|APM",
+  "1d624967-8bc1-f111-8959-040973dcfef1|516681|Amor por la Marca",
+  "4515df36-c5c0-f111-8959-040973dcfef1|1673772|Amor por la Marca",
+  "4515df36-c5c0-f111-8959-040973dcfef1|1673825|Amor por la Marca",
+  "4cfb302f-a1d3-f111-895b-040973dcfef1|1660905|Amor por la Marca",
+  "526c4b0a-c6d6-f111-895b-040973dcfef1|1680659|Amor por la Marca",
+  "5c526829-d8d2-f111-895b-040973dcfef1|1658444|Amor por la Marca",
+  "5cb9090f-6ac9-f111-8959-040973dcfef1|1694530|Amor por la Marca",
+  "7214effa-40d1-f111-895b-040973dcfef1|518055|Amor por la Marca",
+  "9ed10b6c-c3d6-f111-895b-040973dcfef1|1697760|Amor por la Marca",
+  "a30041b6-8ecc-f111-8959-040973dcfef1|1671098|Amor por la Marca",
+  "a30041b6-8ecc-f111-8959-040973dcfef1|1675616|Amor por la Marca",
+  "ea0d0b38-21ce-f111-895b-040973dcfef1|1676279|Amor por la Marca",
+  "eb887b8a-0ec7-f111-8959-040973dcfef1|1675331|Amor por la Marca",
+  "f499c8c5-d7c7-f111-8959-040973dcfef1|1660483|Amor por la Marca",
+  "f499c8c5-d7c7-f111-8959-040973dcfef1|1663595|EOL Research",
+  "f499c8c5-d7c7-f111-8959-040973dcfef1|1675424|Amor por la Marca",
+  "f499c8c5-d7c7-f111-8959-040973dcfef1|1679576|EOL Research",
+  "f83d9c62-6ad4-f111-895b-040973dcfef1|1661867|Amor por la Marca"
+ ],
+ "huella_claves": "44d0eaa1d15a6ea054a7ac8da9566c1e2fd8b642",
+ "ultima_revision": "2026-11-04 18:32",
+ "fallos_seguidos": 0,
+ "acumulado": {
+  "marcas": 30012,
+  "docs": 43,
+  "coincidencias": 22
+ },
+ "ultimo_resumen": {
+  "cuando": "2026-11-04 18:32",
+  "documentos": 43,
+  "marcas": 30012,
+  "solicitudes": 23871,
+  "nuevas": 22
+ }
+}
