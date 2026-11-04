@@ -1,0 +1,13 @@
+# Palabras a vigilar en INAPI (una por línea).
+# Para agregar o quitar: edita este archivo en GitHub (ícono del lápiz) y guarda con "Commit changes".
+# No importan mayúsculas ni tildes.
+# Las palabras de 7 letras o más también detectan marcas parecidas
+# (por ejemplo "Calagenda" o "Kalagend" para "Calagend").
+# Si cambias esta lista, la próxima revisión vuelve a mirar los últimos 30 días.
+
+EOL
+EOL Research
+APM
+Amor por la Marca
+Calagend
+APM Pro

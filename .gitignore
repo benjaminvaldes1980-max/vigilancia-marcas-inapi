@@ -1,0 +1,6 @@
+__pycache__/
+datos/archivos_inapi/
+datos/respuestas_inapi/
+datos/en_ejecucion.lock
+datos/*.tmp
+diagnostico/
