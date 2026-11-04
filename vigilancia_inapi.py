@@ -525,6 +525,31 @@ RX_FIN_MARCA = re.compile(
     r"El solicitante|La solicitud|Notif[ií]quese|Resoluci[oó]n|Atendiendo|Previo a|Se le)\b)")
 
 
+RX_SUBTIPO = re.compile(
+    r"^(?:Marca de P&S|Marca de Productos y Servicios|Marca de Productos|Marca de Servicios|Solicitud Internacional|"
+    r"Frase de Propaganda|Marca Colectiva|Marca de Certificaci[oó]n|Nombre Comercial|R[oó]tulo|"
+    r"Establecimiento (?:Comercial|Industrial)|Indicaci[oó]n Geogr[aá]fica|Denominaci[oó]n de Origen|"
+    r"Anotaci[oó]n de [A-Za-zÁÉÍÓÚáéíóúñ]+(?: [A-Z]{2,4})?|Renovaci[oó]n(?: [A-Z]{2,4})?|Transferencia|Oposici[oó]n)\s*",
+    re.I)
+RX_CLASES_TIPO = re.compile(r"\s\d{1,2}(?:\s*(?:,|y)\s*\d{1,2})*\s+(?=" + TIPOS_SIGNO + r")", re.I)
+
+
+def extraer_marca_presentacion(texto):
+    """Presentaciones: N° | expediente | Subtipo | Denominación | Clases de Niza | Tipo de signo."""
+    m = RX_SOLICITUD.match(texto)
+    resto = re.sub(r"\s+", " ", texto[m.end():] if m else texto).strip()
+    resto = RX_SUBTIPO.sub("", resto, count=1)
+    fin = RX_CLASES_TIPO.search(" " + resto)
+    if fin:
+        resto = (" " + resto)[:fin.start()]
+    else:
+        t = RX_TIPO_SIGNO.search(resto)
+        if t:
+            resto = resto[:t.start()]
+        resto = re.sub(r"\s\d{5,8}\s*$", "", resto)  # N° de registro al final (renovaciones)
+    return " ".join(resto.split()[:14])
+
+
 def extraer_marca(texto):
     """Nombre de la marca: lo que viene después del tipo de signo (Mixta, Denominativa...),
     sin las observaciones legales que INAPI agrega a continuación."""
@@ -562,7 +587,7 @@ def analizar(doc, texto, claves):
     solicitudes = {r["solicitud"] for r in regs if r["solicitud"]}
     resultados, anterior = [], None
     for reg in regs:
-        marca = extraer_marca(reg["texto"])
+        marca = extraer_marca_presentacion(reg["texto"]) if doc["tipo"] == "5" else extraer_marca(reg["texto"])
         hall = buscar(reg["texto"], claves, marca)
         if not hall:
             anterior = None
