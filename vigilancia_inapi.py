@@ -65,7 +65,7 @@ TIPOS_SIGNO = (r"Mixta|Denominativa|Figurativa|De\s+patr[oó]n|Tridimensional|So
 RX_TIPO_SIGNO = re.compile(r"(?<![A-Za-zÁÉÍÓÚáéíóúÑñ])(" + TIPOS_SIGNO + r")(?![A-Za-zÁÉÍÓÚáéíóúÑñ])", re.I)
 
 IGNORADAS_INICIALES = ("de, del, la, las, el, los, lo, y, e, o, u, en, por, para, con, a, al, "
-                       "the, of, and, for, pro, spa, ltda, sa, eirl, chile")
+                       "the, of, and, for, pro, spa, ltda, sa, eirl, chile, marca, marcas")
 
 CLAVES_INICIALES = """# Palabras a vigilar en INAPI (una por línea).
 # Puedes agregar o borrar líneas y guardar. Las líneas que empiezan con # se ignoran.
@@ -410,7 +410,7 @@ def buscar(texto, claves, marca=""):
     t2 = re.sub(r"(?<![a-z0-9])[a-z0-9](?: [a-z0-9](?![a-z0-9]))+",
                 lambda m: m.group(0).replace(" ", ""), t)
     tokens = t.split()
-    tokens_marca = set(normalizar(marca or texto).split())
+    tokens_marca = set(normalizar(marca).split())  # "una palabra" solo mira el nombre de la marca
     hallazgos, exactas = [], set()
     for c in claves:
         if c.rx.search(t) or c.rx.search(t2):
@@ -475,7 +475,7 @@ def extension(datos):
     return ".txt"
 
 
-RX_SOLICITUD = re.compile(r"^\s*(\d{6,8})\b")
+RX_SOLICITUD = re.compile(r"^\s*(?:\d{1,4}\s+)?(\d{6,8})\b")  # en Presentaciones va un correlativo antes
 RX_SECCION = re.compile(r"Secci[oó]n\s+(M\s?\d+)\s*:?\s*(.*)", re.I)
 RUIDO = [re.compile(p, re.I) for p in (
     r"^estado diario", r"^solicitud\s+representante", r"^\d{1,4}$", r"^p[aá]gina\s+\d+")]
@@ -517,14 +517,26 @@ def separar_registros(texto):
     return regs
 
 
+# Donde empiezan las observaciones de INAPI (texto legal que no es parte de la marca)
+RX_FIN_MARCA = re.compile(
+    r"\s(?:Vistos?[,:]|Que,|(?:Atendid[oa]s?|Habi[eé]ndose|En particular|CONSIDERANDO|Considerando|Por cumplido|"
+    r"Con protecci[oó]n|Sin protecci[oó]n|No se ha|N[uú]mero de Registro|Se (?:observa|solicita|rechaza|acoge|"
+    r"tiene|deja|ordena|concede)|Respecto|Conforme a|De acuerdo|Por resoluci[oó]n|Teniendo presente|"
+    r"El solicitante|La solicitud|Notif[ií]quese|Resoluci[oó]n|Atendiendo|Previo a|Se le)\b)")
+
+
 def extraer_marca(texto):
-    """Nombre de la marca: lo que viene después del tipo de signo (Mixta, Denominativa...)."""
-    ultimo = None
-    for m in RX_TIPO_SIGNO.finditer(texto):
-        ultimo = m
-    if not ultimo:
+    """Nombre de la marca: lo que viene después del tipo de signo (Mixta, Denominativa...),
+    sin las observaciones legales que INAPI agrega a continuación."""
+    m = RX_TIPO_SIGNO.search(texto)
+    if not m:
         return ""
-    return re.sub(r"\s+", " ", texto[ultimo.end():]).strip()
+    marca = " " + re.sub(r"\s+", " ", texto[m.end():]).strip()
+    fin = RX_FIN_MARCA.search(marca)
+    if fin:
+        marca = marca[:fin.start()]
+    palabras = marca.split()
+    return " ".join(palabras[:14])
 
 
 def registros_de(texto):
@@ -1037,6 +1049,9 @@ def _revisar(fuente, requests, manual, inicio):
             ruta.write_bytes(datos)
             d["archivo"] = str(ruta)
             texto = extraer_texto(datos)
+            # muestra del texto leído (sirve para diagnosticar cambios de formato de INAPI)
+            guardar_texto(DATOS / f"muestra_{'presentaciones' if d['tipo'] == '5' else 'estado_diario'}.txt",
+                          "\n".join(texto.splitlines()[:200]))
             encontrados, cantidad, sols = analizar(d, texto, claves)
         except Exception as e:
             log(f"   No pude revisar este documento: {e}")
