@@ -1,200 +1,200 @@
 1
-06 DE NOVIEMBRE DE 2026
+09 DE NOVIEMBRE DE 2026
 Nro 
 expedient
 e Subtipo solicitud Denominación Clases de Niza Tipo de Signo Regíon
-1 1698701 Marca de P&S Conciliara 42 Mixta
-2 1698702 Marca de P&S ORIONTIS 9 Denominativa
-3 1698703 Marca de P&S BLACK WOLF BUS PARTY 41 Mixta
-4 1698704 Marca de P&S RELUU 35 y 42 Denominativa
-5 1698705 Marca de P&S SONGMONT 18 Mixta
-6 1698706 Marca de P&S tuSimil.ar 9 Mixta
-7 1698707 Marca de P&S tuSimil.ar 42 Mixta
-8 1698708 Marca de P&S SFP soyfuncionariopublico.cl 45 Mixta
-9 1698709 Marca de P&S OG aricalegal 45 Denominativa
-10 1698710 Marca de P&S ClinSim 9 Denominativa
-11 1698711 Marca de P&S EL PRIMER SOL 16 Denominativa
-12 1698712 Marca de P&S coevostrategy 35 Denominativa
-13 1698713 Marca de P&S CORPUS LEGAL 45 Mixta
-14 1698714 Marca de P&S cronoschile 41 Mixta
-15 1698715 Marca de P&S Factoría Los Ríos 41 Denominativa
-16 1698716 Marca de P&S Mahindra Rovaro 12 y 35 Denominativa
-17 1698717 Marca de P&S WE THE WINE EXPERIENCE 35 y 41 Mixta
-18 1698718 Marca de P&S Veguita Gourmet/ tu espacio saludable 30, 31 y 35 Mixta
-19 1698719 Marca de P&S ReemplazaSeguros 35, 36 y 42 Denominativa
-20 1698720 Marca de P&S OLA 33 Mixta
-21 1698721 Marca de P&S Merus 29 Denominativa
-22 1698722 Marca de P&S y punto. 25 Mixta
-23 1698723 Marca de P&S CERTISALUD CHILE 44 Denominativa
-24 1698724 Marca de P&S INFALLIBLE UV 3 Denominativa
-25 1698725 Marca de P&S IKA FOODS 31 y 32 Mixta
-26 1698726 Marca de P&S Sushi Tokio 43 Mixta
-27 1698727 Marca de P&S
-Mochila72Chile tu familia preparada ante una 
-emergencia 9 Mixta
-28 1698728 Marca de P&S VÍCTOR GONZÁLEZ HERRERA 35 y 41 Denominativa
-29 1698729 Marca de P&S VB TOPOGRAFÍA SpA 42 Mixta
-30 1698730 Marca de P&S IMPACT 42 Mixta
-31 1698731 Marca de P&S SYNETIC 37 Mixta
-32 1698732 Marca de P&S coevostrategy 41 Denominativa
-33 1698733 Marca de P&S FILMONKIA 35, 41 y 42 Mixta
+1 1698978 Marca de P&S WolfSystems 42 Mixta
+2 1698979 Marca de P&S Alma Vertical 41 Denominativa
+3 1698980 Marca de P&S Kinesfera 35 y 42 Mixta
+4 1698981 Marca de P&S MICRO MINI 18 Denominativa
+5 1698982 Marca de P&S GADUAI 35 y 42 Mixta
+6 1698983 Marca de P&S ANDES BOULEVARD 41 Mixta
+7 1698984 Marca de P&S Puente Azul 41 Denominativa
+8 1698985 Marca de P&S ANDES BOULEVARD 35 Mixta
+9 1698986 Marca de P&S ASMp Ready for Stress 1 Mixta
+10 1698987 Marca de P&S MPF 7 Mixta
+11 1698988 Marca de P&S MPF 45 Mixta
+12 1698989 Marca de P&S Vivero Faumeliza 35 y 44 Mixta
+13 1698990 Marca de P&S Dulce Noche 5 Mixta
+14 1698991 Marca de P&S POWER FRUIT 32 Mixta
+15 1698992 Marca de P&S IBIKES 35 Mixta
+16 1698993 Marca de P&S Brotes del sur 31 y 35 Denominativa
+17 1698994 Marca de P&S LINYU 35 Mixta
+18 1698995 Marca de P&S LINYU FRIED CHICKEN 29 Mixta
+19 1698996 Marca de P&S LINYU FRIED CHICKEN 43 Mixta
+20 1698997 Marca de P&S JIRAFA DIGITAL 35 Mixta
+21 1698998 Marca de P&S LINYU 29 Mixta
+22 1698999 Marca de P&S LINYU 43 Mixta
+23 1699000 Marca de P&S LINYU FRIED CHICKEN 35 Mixta
+24 1699001 Marca de P&S Aera 32 Mixta
+25 1699002 Marca de P&S OCB 25 y 34 Mixta
+26 1699003 Marca de P&S SOCAM 6 Mixta
+27 1699004 Marca de P&S SOCAM 16 Mixta
+28 1699005 Marca de P&S 43 Figurativa
+29 1699006 Marca de P&S SOCAM 40 Mixta
+30 1699007 Marca de P&S VIC ROBOTICS 35, 37 y 39 Denominativa
+31 1699008 Marca de P&S MASIC 40 Denominativa
+32 1699009 Marca de P&S Padnet 41 Mixta
+33 1699010 Marca de P&S RAZZ ROCKET 32 Denominativa
 2
-34 1698734 Marca de P&S PATAGONIAOILS 3 Mixta
-35 1698735 Marca de P&S KEXA GROUP 35 Mixta
-36 1698736 Marca de P&S El Club de la Tierra 41 Denominativa
-37 1698737 Marca de P&S 31 Figurativa
-38 1698738 Marca de P&S ORYCCO 5 Denominativa
-39 1698739 Marca de P&S Mas Legal 45 Denominativa
-40 1698740 Marca de P&S KEXA GROUP 42 Mixta
-41 1698741 Marca de P&S KOMUNA 42 Mixta
-42 1698742 Marca de P&S Foldersoft 42 Denominativa
-43 1698743 Marca de P&S MASCO TITA 35 Mixta
-44 1698744 Marca de P&S VERKRUISEN APICULTURA CON CONCIENCIA 44 Denominativa
-45 1698745 Marca de P&S PEUMO ALTO 29 Mixta
-46 1698746 Marca de P&S PUERTOPLAS 35 Mixta
-47 1698747 Marca de P&S REFUGIO ITAHUE 43 Mixta
-48 1698748 Marca de P&S ANTIVO 25 Denominativa
-49 1698749 Marca de P&S ASTRA+MCTS 35 Mixta
-50 1698750 Marca de P&S MINEED 9 y 42 Mixta
-51 1698751 Marca de P&S UBRANE 5 Denominativa
-52 1698752 Marca de P&S FS 44 Mixta
-53 1698753 Marca de P&S PORTAL DE POLIZAS 42 Denominativa
-54 1698754 Marca de P&S Lagusol 35 Mixta
-55 1698755 Marca de P&S BIOTOURIST 39 Denominativa
-56 1698756 Marca de P&S HESCO 6, 19 y 24 Mixta
-57 1698757 Marca de P&S FF FISCHER PLUS 17 Mixta
-58 1698758 Marca de P&S 3 Figurativa
-59 1698759 Marca de P&S INDIO PIXXX 33 Denominativa
-60 1698760 Marca de P&S Trip for Chile 39 Mixta
-61 1698761 Marca de P&S MERCADITO 42 Denominativa
-62 1698762 Marca de P&S PUPPADS 5, 16 y 18 Mixta
-63 1698763 Marca de P&S EvolveX Dirección Ejecutiva & Automatización 35 Mixta
-64 1698764 Marca de P&S GUSALAI 14 Denominativa
-65 1698765 Marca de P&S mkt.grn marketgreen 35 y 40 Mixta
-66 1698766 Marca de P&S Alonsa Boutique 14 Denominativa
-67 1698767 Marca de P&S WAYU 7 Mixta
-68 1698768 Marca de P&S WAYU 25 Mixta
-69 1698769 Marca de P&S EM Eco2 Mining 9, 35, 41 y 42 Denominativa
-70 1698770 Marca de P&S DI MARE 43 Mixta
-71 1698771 Marca de P&S MEDEXPRO 41 Mixta
-72 1698772 Marca de P&S INGENIERÍA EN REVESTIMIENTOS IR 37 y 40 Mixta
-73 1698773 Marca de P&S FINTHAR 41 y 42 Denominativa
+34 1699011 Marca de P&S
+HH HEMMELMANN HAUS 
+CONSTRUCTORA,INMOBILIARIA Y ASESORIAS 
+SPA 36 Denominativa
+35 1699012 Marca de P&S 43 Figurativa
+36 1699013 Marca de P&S FIDO PET 35 y 44 Denominativa
+37 1699014 Marca de P&S MEL PROPIEDADES 36 Mixta
+38 1699015 Marca de P&S ALLEGRO TI 42 Denominativa
+39 1699016 Marca de P&S GOBIÉRNATE 41 Denominativa
+40 1699017 Marca de P&S Fonoanaliza 42 Denominativa
+41 1699018 Marca de P&S Domus 9 Denominativa
+42 1699019 Marca de P&S KRAKO 28 Denominativa
+43 1699020 Marca de P&S SUPER AS   JR 43 Denominativa
+44 1699021 Marca de P&S Búriku 35 Denominativa
+45 1699022 Marca de P&S Keto KP- MAD 41 Multimedia
+46 1699023 Marca de P&S 25 Figurativa
+47 1699024 Marca de P&S Alta Roca 44 Denominativa
+48 1699025 Marca de P&S La esencia, sabores de hogar 43 Denominativa
+49 1699026 Marca de P&S 25 Figurativa
+50 1699027 Marca de P&S MUNDO CHEF 8, 21 y 35 Denominativa
+51 1699028 Marca de P&S WOK & LIMON 43 Mixta
+52 1699029 Marca de P&S INTELISOFT 9 y 42 Denominativa
+53 1699030 Marca de P&S 7 Figurativa
+54 1699031 Marca de P&S PokeMontt 28 Mixta
+55 1699032 Marca de P&S OFF PAES FESTIVAL 41 Mixta
+56 1699033 Marca de P&S MUNDO CHEF MENAJES 35 Mixta
+57 1699034 Marca de P&S HOMEHOT 25 Denominativa
+58 1699035 Marca de P&S BZR Music 35 y 41 Denominativa
+59 1699036 Marca de P&S Viento Blanco Rental 39 y 41 Mixta
+60 1699037 Marca de P&S VITRAX 10 Denominativa
+61 1699038 Marca de P&S Talent House 35 y 41 Denominativa
+62 1699039 Marca de P&S El Abogado del Puerto 45 Denominativa
+63 1699040 Marca de P&S Fluxá Systems 42 Mixta
+64 1699041 Marca de P&S coevostrategy 9 Denominativa
+65 1699042 Marca de P&S Espacio Salud Maitencillo 44 Denominativa
+66 1699043 Marca de P&S SAPIL SINCE 1997 3 Mixta
+67 1699044 Marca de P&S kairó HAIR ELEMENTALS 3 y 35 Mixta
+68 1699045 Marca de P&S TAITAO 32 Denominativa
+69 1699046 Marca de P&S TRYNKA 45 Denominativa
+70 1699047 Marca de P&S RISMED RED INTEGRAL DE SALUD MEDICA 44 Mixta
+71 1699048 Marca de P&S pepsico Food. Drinks. Smiles. 29 Mixta
 3
-74 1698774 Marca de P&S Boom Broker 36 Denominativa
-75 1698775 Marca de P&S FINTHAR 35 Denominativa
-76 1698776 Marca de P&S NILKANTA CONSCIENCIA SANACIÓN EVOLUCIÓN 41 Mixta
-77 1698777 Marca de P&S WAYU 24 Mixta
-78 1698778 Marca de P&S Fundación CMPC 16 Mixta
-79 1698779 Marca de P&S Quetta 9 y 12 Mixta
-80 1698780 Marca de P&S Fundación CMPC 38 Mixta
-81 1698781 Marca de P&S Fundación CMPC 41 Mixta
-82 1698782 Marca de P&S De Primera Fuente en Radio 13C 41 Denominativa
-83 1698783 Marca de P&S Fundación CMPC 45 Mixta
-84 1698784 Marca de P&S Pymio 9, 35 y 42 Mixta
-85 1698785 Marca de P&S ZHINK! Sports & Events 41 Mixta
-86 1698786 Marca de P&S Solo Gourmet 30 Mixta
-87 1698787 Marca de P&S +FARMAZ DONDE TU CUIDADO CONTINÚA 35 y 44 Mixta
-88 1698788 Marca de P&S Agrupación Super Ángeles de Edward Ochoa 41 Mixta
-89 1698789 Marca de P&S Nodo 35 Denominativa
-90 1698790 Marca de P&S ALGO DE BACO 35 Denominativa
-91 1698791 Marca de P&S THE SHIFTER EST.2016 25, 35 y 37 Mixta
-92 1698792 Marca de P&S Soprole Al Tiro 29 Denominativa
-93 1698793 Marca de P&S Nikovino 33 Denominativa
-94 1698794 Marca de P&S ECOLOVER 3 y 5 Denominativa
-95 1698795 Marca de P&S ELIGE TU PLAN 36 Mixta
-96 1698796 Marca de P&S PROGRANO 29, 30 y 31 Denominativa
-97 1698797 Marca de P&S Centro Mosaico 36, 41 y 44 Denominativa
-98 1698798 Marca de P&S GRANOPRO 29, 30 y 31 Denominativa
-99 1698799 Marca de P&S GRANOPRO+ 29, 30 y 31 Denominativa
-100 1698800 Marca de P&S VENDOGO 35 Mixta
-101 1698801 Marca de P&S Don Quijote 29 Mixta
-102 1698802 Marca de P&S MAQAGRO 44 Denominativa
-103 1698803 Marca de P&S SURFEA 35 Denominativa
-104 1698804 Marca de P&S DENT SOLUTION 5, 10 y 44 Mixta
-105 1698805 Marca de P&S TERRAL 9 y 25 Denominativa
-106 1698806 Marca de P&S hablemos de moda 25 y 35 Mixta
-107 1698807 Marca de P&S AUSTRAL POINT INVERSIONES 35 Mixta
-108 1698808 Marca de P&S RestAura 3 y 44 Denominativa
-109 1698809 Marca de P&S Claudia Sin Gluten 9, 16, 30 y 41 Denominativa
-110 1698810 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS SUGARSOIL 
-PLUS ABONO ORGANO MINERAL NPK ORIGEN 
-VEGETAL APLICACIÓN RADICULAR 1 Mixta
+72 1699049 Marca de P&S CLOROX PURE 3 y 5 Denominativa
+73 1699050 Marca de P&S Vulka 37 Denominativa
+74 1699051 Marca de P&S BESTIA.WORK 35 Mixta
+75 1699052 Marca de P&S GREGORIO.WORK 41 Mixta
+76 1699053 Marca de P&S REYMONKEY 35 Denominativa
+77 1699054 Marca de P&S Nakora Center 41 Mixta
+78 1699055 Marca de P&S Licomax 35 Mixta
+79 1699056 Marca de P&S SMARTCONTACT 35 y 45 Mixta
+80 1699057 Marca de P&S H HAVAN 35 Mixta
+81 1699058 Marca de P&S Torneo Gran Toki 41 Mixta
+82 1699059 Marca de P&S Huella Construcción 42 Mixta
+83 1699060 Marca de P&S
+J FITNESS MOVE FUERZA EQUILIBRIO 
+MOVIMIENTO 41 Mixta
+84 1699061 Marca de P&S PROTEIN FIRST 31 y 35 Denominativa
+85 1699062 Marca de P&S Vul-K 37 Denominativa
+86 1699063 Marca de P&S PUNTOPAES 42 Mixta
+87 1699064 Marca de P&S coevostrategy 42 Denominativa
+88 1699065 Marca de P&S LA CONSTELADORA FAMILIAR 41 y 44 Mixta
+89 1699066 Marca de P&S IM PARTNERS Estrategia, Personas, Resultados 41 Mixta
+90 1699067 Marca de P&S BAUX 6 y 19 Mixta
+91 1699068 Marca de P&S CAFUNÉ ACADEMY 9, 35 y 41 Mixta
+92 1699069 Marca de P&S Aura Energy Drink 32 Denominativa
+93 1699070 Marca de P&S SHIFT BI 9 Mixta
+94 1699071 Marca de P&S Activa Raíz 44 Mixta
+95 1699072 Marca de P&S FARMACIAS RAIL 35 Mixta
+96 1699073 Marca de P&S LUBRIPARK Servicio Premium 37 Mixta
+97 1699074 Marca de P&S Maestro al Toque 9 y 35 Denominativa
+98 1699075 Marca de P&S Cazador de oceanos 35 Mixta
+99 1699076 Marca de P&S PAUTA Y PLATO 42 y 44 Mixta
+100 1699077 Marca de P&S VANTARIS ENERGY ADVISORS SpA 36, 41 y 42 Mixta
+101 1699078 Marca de P&S AUDACE 25 y 35 Denominativa
+102 1699079 Marca de P&S InBerza 36 Mixta
+103 1699080 Marca de P&S SHIFT LIS 9 Mixta
+104 1699081 Marca de P&S strikepark 41 Mixta
+105 1699082 Marca de P&S CHOFFERS 39 Denominativa
+106 1699083 Marca de P&S Porotines Party 41 y 43 Mixta
+107 1699084 Marca de P&S VENTURAK 45 Mixta
+108 1699085 Marca de P&S Cabra del Valle 39 Mixta
+109 1699086 Marca de P&S Constructora Bravo 37 y 42 Mixta
+110 1699087 Marca de P&S KM7 39 Mixta
 4
-111 1698811 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS 
-OSMOPROTECT ABONO ORGANICO NITROGENADO 
-RICO EN GLICINA BETAINA APLICACIÓN FOLIAR 1 Mixta
-112 1698812 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS QNET 
-PREMIUM SOLUCION DE ABONO A BASE DE ZINC 
-FOLIAR 1 Mixta
-113 1698813 Marca de P&S Fractitud 35 Mixta
-114 1698814 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS NANOLITHE 
-CALCIO SOLUCION DE CALCIO COMPLEJADO 
-APLICACIÓN FOLIAR 1 Mixta
-115 1698815 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS PREMIUM 
-KELP EXTRACTO LIQUIDO ECKLONIA MAXIMA 
-APLICACIÓN FOLIAR 1 Mixta
-116 1698816 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS NANOLITHE 
-POTASIO SOLUCION DE POTASIO COMPLEJADO 
-APLICACIÓN FOLIAR 1 Mixta
-117 1698817 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS ENGORDE+ 
-PREMIUM EXTRACTO DE ALGAS LIQUIDO 
-ASCOPHYLLUM NODOSUM FOLIAR 1 Mixta
-118 1698818 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS TRI + 
-PREMIUM SOLUCION DE ZINC, MANGANESO Y 
-MAGNESIO COMPLEJADO CON ACIDO GLUCÓNICO 
-RADICULAR/FOLIAR 1 Mixta
-119 1698819 Marca de P&S CAVIDA 42 Denominativa
-120 1698820 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS PREMIUM TRP 
-ABONO ORGANICO SIMPLE A BASE DE 
-MICRONUTRIENTES RADICULAR/FOLIAR 1 Mixta
-121 1698821 Marca de P&S
-PREMIUM NUTRITIONAL SOLUTIONS FULLCOLOR 
-PREMIUM HIDROLIZADO PROTEICO ORIGEN 
-VEGETAL FOLIAR 1 Mixta
-122 1698822 Marca de P&S M&K INGENIERÍA 37 y 42 Mixta
-123 1698823 Marca de P&S tomasito 3 Denominativa
-124 1698824 Marca de P&S Comuna Inteligente 35 Denominativa
-125 1698825 Marca de P&S PREMIUM COMERCIAL AGRÍCOLA 1, 35 y 44 Mixta
-126 1698826 Marca de P&S MINDSET GYM 41 Mixta
-127 1698827 Marca de P&S GESTPYME 9 Mixta
-128 1698828 Marca de P&S TTC THE TREND CHILE 35 Denominativa
-129 1698829 Marca de P&S Ride Your Soul 41 Mixta
-130 1698830 Marca de P&S LA MEDIA NOTA 41 Denominativa
+111 1699088 Marca de P&S Kyojin Sushi 43 Mixta
+112 1699089 Marca de P&S SHIFT AUTOMATIZACIÓN 9 Mixta
+113 1699090 Marca de P&S El Rey De Las Sonoras 41 Mixta
+114 1699091 Marca de P&S Théra 44 Denominativa
+115 1699092 Marca de P&S Todo Señaléticas 35 y 40 Mixta
+116 1699093 Marca de P&S BLOOMY 14 y 35 Denominativa
+117 1699094 Marca de P&S AGRIFAM 29 Mixta
+118 1699095 Marca de P&S Loica Design 9 y 42 Mixta
+119 1699096 Marca de P&S ESCUELA ORAL Y MUSICAL SUMA KHANTATI 41 Mixta
+120 1699097 Marca de P&S Renac. 44 Mixta
+121 1699098 Marca de P&S SHIFT BI 42 Mixta
+122 1699099 Marca de P&S F.D.M.  DEL FIN DEL MUNDO 35 Denominativa
+123 1699100 Marca de P&S CENTRO CONSTELAR 35, 41 y 43 Mixta
+124 1699101 Marca de P&S El Patagón 20 Denominativa
+125 1699102 Marca de P&S twenty 35 Mixta
+126 1699103 Marca de P&S AGLORA 9 Denominativa
+127 1699104 Marca de P&S Cruce de sabores 43 Mixta
+128 1699105 Marca de P&S NIDO VERDE 35 Mixta
+129 1699106 Marca de P&S EEmakers3d 40 Mixta
+130 1699107 Marca de P&S SHIFT LIS 42 Mixta
+131 1699108 Marca de P&S Resonare Centro de formación artística spa 41 Mixta
+132 1699109 Marca de P&S Emotions 25 Denominativa
+133 1699110 Marca de P&S Medicalcenter 44 Mixta
+134 1699111 Marca de P&S SHIFT AUTOMATIZACIÓN 42 Mixta
+135 1699112 Marca de P&S Categoria ESE 33, 40 y 41 Denominativa
+136 1699113 Marca de P&S El Rincon de Mirna 43 Mixta
+137 1699114 Marca de P&S Enologia Simbiotica Elemental 33, 40 y 41 Denominativa
+138 1699115 Marca de P&S ACADEMIA ESE 41 Denominativa
+139 1699116 Marca de P&S Hacienda Colonial SpA 31 y 35 Mixta
+140 1699117 Marca de P&S KLARTÉ JOYAS 14 Denominativa
+141 1699118 Marca de P&S MUESCA 42 Denominativa
+142 1699119 Marca de P&S CLOWSE 25 Mixta
+143 1699120 Marca de P&S FloraSoul 5 Denominativa
+144 1699121 Marca de P&S MATURANA SUNSET 41 Denominativa
+145 1699122 Marca de P&S Gran Toki Sumisión 41 Mixta
+146 1699123 Marca de P&S ORTHOBAM 42 Denominativa
+147 1699124 Marca de P&S HUMEDAL VIVO 40 Denominativa
+148 1699125 Marca de P&S uMI 10 Denominativa
+149 1699126 Marca de P&S ORTHOBAM 42 Mixta
+150 1699127 Marca de P&S FACTUM 35 y 42 Denominativa
 5
-131 1698831 Marca de P&S AutoHelp 37 Mixta
-132 1698832 Marca de P&S SOCOAM 42 Mixta
-133 1698833 Marca de P&S partisano 18 y 25 Denominativa
-134 1698834 Marca de P&S RAMAR SOLAR 37 Mixta
-135 1698835 Marca de P&S SAVORE 29 Denominativa
-136 1698836 Marca de P&S SAVORE 30 Denominativa
-137 1698837 Marca de P&S Punto Festa 41 Mixta
-138 1698838 Marca de P&S
-CENTRO DE NEUROLOGÍA COGNITIVA Y MEMORIA 
-NEUROACTIVA 44 Mixta
-139 1698839 Marca de P&S SEISCIENTOS 35 Mixta
-140 1698840 Marca de P&S Tulipanda Travel 39 Mixta
-141 1698841 Marca de P&S LC La Custodia 35 Mixta
-142 1698842 Marca de P&S teddytoy 28 Denominativa
-143 1698843 Marca de P&S 900 RAMPS 35 Mixta
-144 1698844 Marca de P&S SINLAC 30 Denominativa
-145 1698845 Marca de P&S Altitude 35 y 41 Denominativa
-146 1698846 Marca de P&S KYLINE 35 Mixta
-147 1698847 Marca de P&S FILINASMA 5 Denominativa
-148 1698848 Marca de P&S LEGUNTABLE 29 Denominativa
-149 1698849 Marca de P&S Padel Cumbre Peñalolén 41 Mixta
-150 1698850 Marca de P&S SAFETYCARD ON 45 Mixta
-151 1698851 Marca de P&S RINARG 5 Denominativa
-152 1698852 Marca de P&S Tiny House Of Wine 35, 41, 42 y 43 Mixta
-153 1698853 Marca de P&S UROPIMIDE 5 Denominativa
-154 1698854 Marca de P&S PROMINERIA 35 Mixta
-155 1698855 Marca de P&S SAFETYCARD ON 9 y 42 Mixta
-156 1698856 Marca de P&S ECOGREENGROUP 44 Mixta
+151 1699128 Marca de P&S MLZ Cachapoal 25 y 35 Denominativa
+152 1699129 Marca de P&S ALFATEX - importamos tendencias 35 Mixta
+153 1699130 Marca de P&S
+CLÍNICA MANQUECURA ESPECIALIDADES 
+ODONTOLÓGICAS 44 Mixta
+154 1699131 Marca de P&S Altoprado 25 Denominativa
+155 1699132 Marca de P&S ML RECRUIT 42 Mixta
+156 1699133 Marca de P&S MAKI JAZZ 44 Denominativa
+09 DE NOVIEMBRE DE 2026 ANOTACIONES
+Nro escritoTipo escrito Marca afectada por escrfito Nro reg
+1 519074 Anotación de Cambio de nombre TOPAX MARINE 1075664
+2 519075 Anotación de Cambio de nombre TOPAX MARINE 1022227
+3 519076 Anotación de Renovación TLT ROLY 1225430
+4 519077 Anotación de Cambio de nombre SEAL COAT 0952544
+5 519078 Anotación de Renovación TLT FERNADEX 1221597
+6 519079 Anotación de Cambio de nombre SAVOLITE 0984951
+7 519080 Anotación de Cambio de nombre REVITALIZE 301 0992760
+8 519081 Anotación de Renovación TLT 1239723
+9 519082 Anotación de Cambio de nombre REVITALIZE 201 0992754
+10 519083 Anotación de Renovación TLT GEOCASA 1226741
+11 519084 Anotación de Cambio de nombre NOVASEAL 0951992
+12 519085 Anotación de Renovación TLT ROYAL ENFIELD HIMALAYAN 1225072
+13 519086 Anotación de Cambio de nombre MEGA-SHIELD 0811636
+14 519087 Anotación de Cambio de nombre LAUNDRY PERMABRITE PLUS 0952545
+15 519088 Anotación de Cambio de nombre ECO 5000 1227293
+16 519089 Anotación de Renovación TLT WEBPAY 1210024
+17 519090 Anotación de Renovación TLT NICK JR. THE BACKYARDIGANS 1222771
+18 519091 Anotación de Renovación TLT TRANSBANK 1230803
+19 519092 Anotación de Renovación TLT ARE YOU THE ONE? EL MATCH PERFECTO 1225357
+20 519093 Anotación de Renovación TLT DROPCONTROL 1220639
+21 519094 Anotación de Renovación TLT ARE YOU THE ONE? EL MATCH PERFECTO 1225358
+22 519095 Anotación de Renovación TLT HACHE UNO 1228595
+23 519096 Anotación de Renovación TLT WISECONN 1216460
+24 519097 Anotación de Renovación TLT MARLOTHERM 1235804
+6
+25 519098 Anotación de Renovación TLT LA PARVA 1238742
