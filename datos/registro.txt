@@ -334,3 +334,9 @@ RuntimeError: No encontré los enlaces de los Estados Diarios en la página de I
 2026-11-13 10:26:19     264 marcas revisadas, 0 coincidencia(s)
 2026-11-13 10:26:20  Informe: /home/runner/work/vigilancia-marcas-inapi/vigilancia-marcas-inapi/informes/informe_2026-11-13_102620.html
 2026-11-13 10:26:20  Sin coincidencias nuevas.
+2026-11-14 10:08:06  Leyendo la página de Estados Diarios de INAPI...
+2026-11-14 10:08:08  43 documentos disponibles, 1 por revisar. Marcas vigiladas: EOL, EOL Research, APM, Amor por la Marca, Calagend, APM Pro
+2026-11-14 10:08:08  [1/1] 2026-11-13 · Estado diario (versión extendida)
+2026-11-14 10:08:21     953 marcas revisadas, 0 coincidencia(s)
+2026-11-14 10:08:22  Informe: /home/runner/work/vigilancia-marcas-inapi/vigilancia-marcas-inapi/informes/informe_2026-11-14_100822.html
+2026-11-14 10:08:22  Sin coincidencias nuevas.

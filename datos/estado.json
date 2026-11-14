@@ -335,6 +335,12 @@
    "tipo": "5",
    "marcas": 264,
    "coincidencias": 0
+  },
+  "2b3a57b0-6adf-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-13",
+   "tipo": "2",
+   "marcas": 953,
+   "coincidencias": 0
   }
  },
  "vistos": [
@@ -372,18 +378,18 @@
   "f83d9c62-6ad4-f111-895b-040973dcfef1|1661867|Amor por la Marca"
  ],
  "huella_claves": "44d0eaa1d15a6ea054a7ac8da9566c1e2fd8b642",
- "ultima_revision": "2026-11-13 10:26",
+ "ultima_revision": "2026-11-14 10:08",
  "fallos_seguidos": 0,
  "acumulado": {
-  "marcas": 38173,
-  "docs": 56,
+  "marcas": 39126,
+  "docs": 57,
   "coincidencias": 30
  },
  "ultimo_resumen": {
-  "cuando": "2026-11-13 10:26",
-  "documentos": 2,
-  "marcas": 1199,
-  "solicitudes": 1137,
+  "cuando": "2026-11-14 10:08",
+  "documentos": 1,
+  "marcas": 953,
+  "solicitudes": 902,
   "nuevas": 0
  }
 }
