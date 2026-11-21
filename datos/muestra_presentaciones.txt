@@ -1,200 +1,200 @@
 1
-18 DE NOVIEMBRE DE 2026
+19 DE NOVIEMBRE DE 2026
 Nro expediente Subtipo solicitud Denominación Clases de Niza Tipo de Signo Regíon
-1 1700479 Marca de P&S Doña Rita Granja Museo Turismo Rural Chillàn 41 Mixta
-2 1700480 Marca de P&S Ladera Este 25 Mixta
-3 1700481 Marca de P&S YPJOYERIA 14 Denominativa
-4 1700482 Marca de P&S BIRRIFY DESCUBRE EVALÚA COMPARTE 9 Mixta
-5 1700483 Marca de P&S YPMETALS 14 Denominativa
-6 1700484 Marca de P&S FIXU 42 Mixta
-7 1700485 Marca de P&S SINEXUS CONSULTORES 35, 41 y 45 Mixta
-8 1700486 Marca de P&S LexQB 9 y 42 Mixta
-9 1700487 Marca de P&S IGNIS 33 Denominativa
-10 1700488 Marca de P&S 33 Figurativa
-11 1700489 Marca de P&S Alter Farmacia Nutribén 5 y 29 Denominativa
-12 1700490 Marca de P&S WORLD FRUIT NEWS BY CASM 9, 16, 41 y 44 Mixta
-13 1700491 Marca de P&S VIALE GELATO 30 Denominativa
-14 1700492 Marca de P&S VOLVERIAS CON TU EX? 2 DESATADO 38 y 41 Mixta
-15 1700493 Marca de P&S CHOCOLATERIA TRADICIÓN DEL SUR 30 Mixta
-16 1700494 Marca de P&S 9 y 38 Figurativa
-17 1700495 Marca de P&S MEDITRAK MEDICAL SUPPLIES 5 y 10 Mixta
-18 1700496 Marca de P&S MISHKAN 36 Denominativa
-19 1700497 Marca de P&S Merlín Comunicaciones 41 Denominativa
-20 1700498 Marca de P&S MABÚ 36 Denominativa
-21 1700499 Marca de P&S IPHSADOL 10 Denominativa
-22 1700500 Marca de P&S IPHSADOL PARCHE FEM 10 Denominativa
-23 1700501 Marca de P&S IPHSADOL PARCHE ARNICA 10 Denominativa
-24 1700502 Marca de P&S IPHSADOL PARCHE FRÍO 10 Denominativa
-25 1700503 Marca de P&S IPHSADOL PARCHE COLD 10 Denominativa
-26 1700504 Marca de P&S IPHSADOL PARCHE ACTIVE 10 Denominativa
-27 1700505 Marca de P&S Letra A.  es de color verde, amarillo y rojo.  La palabra negrita APARKALEKU35 Mixta
-28 1700506 Marca de P&S CANDY BOOM 28 y 30 Mixta
-29 1700507 Marca de P&S LOUNGE 18 Mixta
-30 1700508 Marca de P&S INXAP Business Brain 9 Mixta
-31 1700509 Marca de P&S INXAP Business Brain 35 Denominativa
-32 1700510 Marca de P&S INXAP Business Brain 35 Mixta
-33 1700511 Marca de P&S INXAP Business Brain 42 Denominativa
-34 1700512 Marca de P&S CALUZ 9 y 42 Denominativa
-35 1700513 Marca de P&S INXAP Business Brain 42 Mixta
+1 1700709 Marca de P&S Comercial San Martin SPA 35 Denominativa
+2 1700710 Marca de P&S Bocamar 43 Denominativa
+3 1700711 Marca de P&S GRABADOS BETANCUR DISEÑO 16 Mixta
+4 1700712 Marca de P&S Clinos 9 y 42 Denominativa
+5 1700713 Marca de P&S Bulltech_Spa 37 Denominativa
+6 1700714 Marca de P&S SeniorMarket.smk 35 Mixta
+7 1700715 Marca de P&S Alergoinmuno 5 y 10 Denominativa
+8 1700716 Marca de P&S MANTENCIONMAULE 6 y 37 Mixta
+9 1700717 Marca de P&S Ruta del Viento 39 Mixta
+10 1700718 Marca de P&S ARGOSTECH 35 y 45 Denominativa
+11 1700719 Marca de P&S Nuvel 3 Mixta
+12 1700720 Marca de P&S CLUB CP PONY 41 Mixta
+13 1700721 Marca de P&S EL PEDERNAL 29 Denominativa
+14 1700722 Marca de P&S Fugas Cárdenas 37 Mixta
+15 1700723 Marca de P&S AUREA GLASS 35 Denominativa
+16 1700724 Marca de P&S FormingCell 9 Mixta
+17 1700725 Marca de P&S KO ASIAN KITCHEN 43 Mixta
+18 1700726 Marca de P&S MANY DE PIWÉN 35 Denominativa
+19 1700727 Marca de P&S BLUE SHOCK 30 Mixta
+20 1700728 Marca de P&S DON FENIX Importadora Alarcon y Fernandez 12 y 35 Mixta
+21 1700729 Marca de P&S STELLA ARTOIS 32 Tridimensional
+22 1700730 Marca de P&S HADA 3 Denominativa
+23 1700731 Marca de P&S Constante no perfecto 41 y 44 Denominativa
+24 1700732 Marca de P&S MAGFOR 5 Denominativa
+25 1700733 Marca de P&S LUNESSA 5 Denominativa
+26 1700734 Marca de P&S SAMURAI 29, 30 y 32 Denominativa
+27 1700735 Marca de P&S OUTDOOR MEDIA 35 Denominativa
+28 1700736 Marca de P&S FUNDO LA ISLA 31 Denominativa
+29 1700737 Marca de P&S The Iberian Quarterly 9 y 16 Mixta
+30 1700738 Marca de P&S Pozos Profundos Aguas Punilla 37 Denominativa
+31 1700739 Marca de P&S PET Aventura 10, 21, 35 y 44 Denominativa
+32 1700740 Marca de P&S MAE-WA-BEAUTY 3 Mixta
+33 1700741 Marca de P&S ALFARDO 31 Denominativa
+34 1700742 Marca de P&S LI SHI DA 30 Mixta
+35 1700743 Marca de P&S ressonus 41 y 42 Denominativa
 2
-36 1700514 Marca de P&S necta-app 42 Mixta
-37 1700515 Marca de P&S CAUTIN 31 Mixta
-38 1700516 Marca de P&S AGENTY 9 Mixta
-39 1700517 Marca de P&S PagaTuParcela 42 Mixta
-40 1700518 Marca de P&S Etiqueta de forma circular, en colores blanco y negro, que contiene en su parte central la denominación "ÑUQUE" escrita en letras mayúsculas de tipografía estilizada con serifas. Debajo de esta palabra figura la expresión "RESTAURANTE" en letras mayúsculas más pequeñas y de trazo simple, flanqueada por dos líneas horizontales cortas. En la mitad superior del conjunto se aprecia la ilustración de una cordillera o macizo montañoso escarpado reflejado sobre un cuerpo de agua, con la figura circular de un sol o luna en color negro detrás de las cumbres y trazos que simulan nubes y ráfagas de viento hacia el costado derecho. En el costado izquierdo y la base inferior, el diseño está enmarcado por las ramas, hojas y raíces entrelazadas de un árbol que rodean una llama de fuego situada en el centro inferior, debajo de la palabra "RESTAURANTE".43 Mixta
-41 1700519 Marca de P&S INXAP Business Brain 9 Denominativa
-42 1700520 Marca de P&S RENOVAL 29, 31 y 35 Denominativa
-43 1700521 Marca de P&S DREAMY 25 Mixta
-44 1700522 Marca de P&S CURSOR 38 y 42 Mixta
-45 1700523 Marca de P&S LAS CAMELIAS 29 Mixta
-46 1700524 Marca de P&S MILA ORÉ 3 Mixta
-47 1700525 Marca de P&S brinka 41 y 42 Mixta
-48 1700526 Marca de P&S MILA ORÉ 21 Mixta
-49 1700527 Marca de P&S ALQUIMIA 35 y 40 Mixta
-50 1700528 Marca de P&S MILA ORÉ 35 Mixta
-51 1700529 Marca de P&S LAS CAMELIAS 35 Mixta
-52 1700530 Marca de P&S Data Beaver 9, 35 y 45 Denominativa
-53 1700531 Marca de P&S 9 y 42 Figurativa
-54 1700532 Marca de P&S UNIMARC EXPRESS 9, 16 y 35 Denominativa
-55 1700533 Marca de P&S Ítaca Estudio Cerámica 41 Mixta
-56 1700534 Marca de P&S SALSA STREAT 30 Denominativa
-57 1700535 Marca de P&S SALSA WEST 30 Denominativa
-58 1700536 Marca de P&S SALSA GOLDEN 30 Denominativa
-59 1700537 Marca de P&S NATURA PAY 9 y 36 Denominativa
-60 1700538 Marca de P&S JUSTER 7, 8, 9 y 35 Mixta
-61 1700539 Marca de P&S Osorno Pedalea 41 Denominativa
-62 1700540 Marca de P&S ULTRAGOM 17 y 40 Denominativa
-63 1700541 Marca de P&S L 35 Mixta
-64 1700542 Marca de P&S Cola de León 35 Mixta
-65 1700543 Marca de P&S L 25 Mixta
-66 1700544 Marca de P&S CLOUD ANDES 42 Denominativa
-67 1700545 Marca de P&S CALUZ un proyecto de IluminAconCiencia 9 y 42 Mixta
-68 1700546 Marca de P&S HUALUX 3 y 8 Mixta
-69 1700547 Marca de P&S Tsoluciona 42 Denominativa
-70 1700548 Marca de P&S Click Hair 3 Mixta
-71 1700549 Marca de P&S RS DRILLING 37 Denominativa
-72 1700550 Marca de P&S L 18 Mixta
-73 1700551 Marca de P&S GLAMM BEAUTY 44 Denominativa
-74 1700552 Marca de P&S THE BACK LABS 28 Denominativa
-75 1700553 Marca de P&S DLT DIELECTRIC LAB TESTING 42 Mixta
+36 1700744 Marca de P&S HERKULES 29 y 30 Denominativa
+37 1700745 Marca de P&S MELON 6, 19, 35, 37, 39, 40 y 42 Denominativa
+38 1700746 Marca de P&S IBERFIT 41 Denominativa
+39 1700747 Marca de P&S superclara 38, 39, 42 y 45 Denominativa
+40 1700748 Marca de P&S HC HYPER CULTURE 25 Mixta
+41 1700749 Marca de P&S VIP Travel Agencia de viajes 39 y 43 Mixta
+42 1700750 Marca de P&S fullcob 36 Denominativa
+43 1700751 Marca de P&S Alma Suculenta Boutique Botanica 3 Mixta
+44 1700752 Marca de P&S TRES PUENTES 35 y 37 Mixta
+45 1700753 Marca de P&S MERTOPRU 35, 41 y 42 Mixta
+46 1700754 Marca de P&S Espacio Sentir 44 Mixta
+47 1700755 Marca de P&S Farmalatina 35 Denominativa
+48 1700756 Marca de P&S PRIMARIS 42 y 45 Mixta
+49 1700757 Marca de P&S Koybyte 35 Mixta
+50 1700758 Marca de P&S Business4results 41 Mixta
+51 1700759 Marca de P&S celestra 30 Denominativa
+52 1700760 Marca de P&S KOSUKI 14 y 35 Denominativa
+53 1700761 Marca de P&S YET 9 Denominativa
+54 1700762 Marca de P&S Camper Patagonia 39 Denominativa
+55 1700763 Marca de P&S Instituto Profesional Arcos 41 Denominativa
+56 1700764 Marca de P&S WildCode Technologies 42 Denominativa
+57 1700765 Marca de P&S HR.F  ,Butterfly pea Gin, Global Mixology since 1999 33 Mixta
+58 1700766 Marca de P&S Off Tattoo 44 Denominativa
+59 1700767 Marca de P&S FOLICROP BACTER NEXUS 1 Denominativa
+60 1700768 Marca de P&S NAUTI EDUCA 41 Denominativa
+61 1700769 Marca de P&S Koybyte 42 Mixta
+62 1700770 Marca de P&S Plan Caracol 35 Denominativa
+63 1700771 Marca de P&S SeatMass Pellet 4 Denominativa
+64 1700772 Marca de P&S CRAWLER PARK 35 y 41 Mixta
+65 1700773 Marca de P&S G GEN Z DOMINA TU ESTILO 3 y 8 Mixta
+66 1700774 Marca de P&S IHNK I HAVE NO KING 25 Mixta
+67 1700775 Marca de P&S Vital Power Copper 1 Mixta
+68 1700776 Marca de P&S Ya Terminé 9 Denominativa
+69 1700777 Marca de P&S FENG QIU MAI 29 y 30 Mixta
+70 1700778 Marca de P&S TARJETA DÉBITO DIGITAL COOPEUCH 36 Denominativa
+71 1700779 Marca de P&S Sello Trato Justo FIC 42 Denominativa
+72 1700780 Marca de P&S Interés Público 41 Denominativa
+73 1700781 Marca de P&S Nos Incumbe 9 Denominativa
+74 1700782 Marca de P&S GENBA 9 y 42 Denominativa
+75 1700783 Marca de P&S RADAR INMOBILIARIO 36 Denominativa
 3
-76 1700554 Marca de P&S NAYARA COLLECTION 43 Mixta
-77 1700555 Marca de P&S Conecta Inclusión 41 y 44 Denominativa
-78 1700556 Marca de P&S IluminAconCiencia 35, 41 y 42 Mixta
-79 1700557 Marca de P&S MARTINFIERRO.CL 38 Denominativa
-80 1700558 Marca de P&S Bestiario del Ruido 41 Denominativa
-81 1700559 Marca de P&S Plan Estratégico de Inclusión Comunal y Regional 41 Denominativa
-82 1700560 Marca de P&S LOS VISCERALES 41 Mixta
-83 1700561 Marca de P&S SUPERIOR 30 Mixta
-84 1700562 Marca de P&S L 14 Mixta
-85 1700563 Marca de P&S Casa Portugal 41 Mixta
-86 1700564 Marca de P&S ETIENNE COLECCIÓN PRIVÉE 3 Denominativa
-87 1700565 Marca de P&S LOUNGE 14 Mixta
-88 1700566 Marca de P&S SELECCIÓN 30 Mixta
-89 1700567 Marca de P&S DENTAF 44 Mixta
-90 1700568 Marca de P&S Bonafide 30 Mixta
-91 1700569 Marca de P&S CRÉDITO HIPOTECARIO JOVEN COOPEUCH 36 Denominativa
-92 1700570 Marca de P&S Monos de Palo 41 Denominativa
-93 1700571 Marca de P&S DREAMY 18 Mixta
-94 1700572 Marca de P&S Eleva Chile 41 Denominativa
-95 1700573 Marca de P&S Oseaa 25 Mixta
-96 1700574 Marca de P&S ETIENNE AURA 3 Denominativa
-97 1700575 Marca de P&S God destiny 25 Mixta
-98 1700576 Marca de P&S ETIENNE CARMÍN 3 Denominativa
-99 1700577 Marca de P&S Chirimoyapp 9, 35 y 42 Mixta
-100 1700578 Marca de P&S JI Sports Law 45 Denominativa
-101 1700579 Marca de P&S LATAM DELIVER 35 y 39 Mixta
-102 1700580 Marca de P&S Dmkbro 41 Denominativa
-103 1700581 Marca de P&S KINE+ 44 Denominativa
-104 1700582 Marca de P&S WALÜNG 30 y 35 Mixta
-105 1700583 Marca de P&S KORDIAN 9 Mixta
-106 1700584 Marca de P&S ANCARYS 41 y 42 Mixta
-107 1700585 Marca de P&S Cibernivel 42 Denominativa
-108 1700586 Marca de P&S ETIENNE TOUCH LEMON MILK 3 Denominativa
-109 1700587 Marca de P&S TEXBAG 35 Mixta
-110 1700588 Marca de P&S LOUNGE HOME 24 Mixta
-111 1700589 Marca de P&S TEXPRINT 35 Mixta
-112 1700590 Marca de P&S Benefica 32 Mixta
-113 1700591 Marca de P&S Axentra 7 Mixta
-114 1700592 Marca de P&S Axentra 16 Mixta
-115 1700593 Marca de P&S Axentra 2 Mixta
+76 1700784 Marca de P&S IWANA 25 Denominativa
+77 1700785 Marca de P&S FIChero 9 Denominativa
+78 1700786 Marca de P&S Quién lo hizo 42 Denominativa
+79 1700787 Marca de P&S e-lefant 35 Mixta
+80 1700788 Marca de P&S Radio Arica 38 Denominativa
+81 1700789 Marca de P&S ENTRE MENTES 42 y 44 Denominativa
+82 1700790 Marca de P&S nativoatacama 33 Denominativa
+83 1700791 Marca de P&S KUNTUR ESCUELA DE PILOTOS DE DRONES 41 Mixta
+84 1700792 Marca de P&S Mi Bar 43 Denominativa
+85 1700793 Marca de P&S IRONTRACK 42 Denominativa
+86 1700794 Marca de P&S NINA HERRERA 20 Mixta
+87 1700795 Marca de P&S H2SOIL 1 Mixta
+88 1700796 Marca de P&S ABÓGATE 9, 42 y 45 Mixta
+89 1700797 Marca de P&S PIPA 43 Mixta
+90 1700798 Marca de P&S Acedig 41 Mixta
+91 1700799 Marca de P&S Guagli 5 Denominativa
+92 1700800 Marca de P&S SEATMASS Pellet 4 Mixta
+93 1700801 Marca de P&S CANNON 20 Denominativa
+94 1700802 Marca de P&S GRUPO VENTO COMERCIAL 35 y 36 Mixta
+95 1700803 Marca de P&S GRUPO VENTO 35 y 36 Mixta
+96 1700804 Marca de P&S VENTO PROPIEDADES 35 y 36 Mixta
+97 1700805 Marca de P&S MAGMA ICE 30 y 43 Denominativa
+98 1700806 Marca de P&S StopeSight 42 Denominativa
+99 1700807 Marca de P&S BABABY 5, 15, 18, 24, 25, 28 y 35 Mixta
+100 1700808 Marca de P&S eDirectory 42 Mixta
+101 1700809 Marca de P&S Valro Healthcare 35 Denominativa
+102 1700810 Marca de P&S 32 y 33 Figurativa
+103 1700811 Marca de P&S ALVAR 35 Denominativa
+104 1700812 Marca de P&S ATM RENT 37 Mixta
+105 1700813 Marca de P&S INUKSHUK 31 Mixta
+106 1700814 Marca de P&S LEVO 18 y 20 Denominativa
+107 1700815 Marca de P&S Prime Natural 5 Denominativa
+108 1700816 Marca de P&S Integritas 45 Denominativa
+109 1700817 Marca de P&S MAMUT MANITO 28 y 35 Mixta
+110 1700818 Marca de P&S Casa Dindinha 18 y 28 Denominativa
+111 1700819 Marca de P&S Cookie Bliss | New York Cookies 30 Mixta
+112 1700820 Marca de P&S A TODA MAKINA 37 Mixta
+113 1700821 Marca de P&S JIA LIN 29 y 30 Mixta
+114 1700822 Marca de P&S BPX mobility 35, 36, 39 y 42 Mixta
+115 1700823 Marca de P&S NINA HERRERA 24 Mixta
 4
-116 1700594 Marca de P&S TechNext 35 y 42 Denominativa
-117 1700595 Marca de P&S Axentra 35 Mixta
-118 1700596 Marca de P&S VALENCIA SERVICIO DE ACERO 6, 35 y 40 Mixta
-119 1700597 Marca de P&S VALENCIA 6, 35 y 40 Denominativa
-120 1700598 Marca de P&S SEDDI INGENIERÍA 40 Mixta
-121 1700599 Marca de P&S Canal Del Golf 41 Denominativa
-122 1700600 Marca de P&S ECOSAND DEL EDEN 31 Mixta
-123 1700601 Marca de P&S MUNDO SENTIDOS 28 Denominativa
-124 1700602 Marca de P&S AQUATRACE 9 y 42 Denominativa
-125 1700603 Marca de P&S LUME 35 Mixta
-126 1700604 Marca de P&S yoyo'spizza 43 Mixta
-127 1700605 Marca de P&S SAINT ALGUE 3 y 44 Denominativa
-128 1700606 Marca de P&S IDection 9 Mixta
-129 1700607 Marca de P&S INCITEC 37 Mixta
-130 1700608 Marca de P&S CAUCE SOCIAL 35, 36 y 45 Mixta
-131 1700609 Marca de P&S LUME MOVES 35 Mixta
-132 1700610 Marca de P&S BESTIAS 35 Denominativa
-133 1700611 Marca de P&S Sintonía Azul 41 Denominativa
-134 1700612 Marca de P&S IMPORTADORA ELITHA MAREF AMERICANA 25 Mixta
-135 1700613 Marca de P&S Litigante AI 9, 42 y 45 Denominativa
-136 1700614 Marca de P&S KAUDALIA 36 y 42 Mixta
-137 1700615 Marca de P&S SS AUTOMOVILES 35 Mixta
-138 1700616 Marca de P&S Tribu ALMA PORTEO 41 Mixta
-139 1700617 Marca de P&S FJDynamics 7 y 9 Mixta
-140 1700618 Marca de P&S IF+IQ 42 Mixta
-141 1700619 Marca de P&S TE QUESO MUCHO 29 y 35 Denominativa
-142 1700620 Marca de P&S ARMOR 5 Denominativa
-143 1700621 Marca de P&S Acotec 1, 6, 7 y 37 Denominativa
-144 1700622 Marca de P&S OXYBRUSH 5 Denominativa
-145 1700623 Marca de P&S SalvaMiCasa.cl 36 y 45 Mixta
-146 1700624 Marca de P&S FIXA 6 Denominativa
-147 1700625 Marca de P&S IL FRUTTO 29 Denominativa
-148 1700626 Marca de P&S María Vázquez Elite Glute Sculpting 41 Mixta
-149 1700627 Marca de P&S E EUROREPAR 12 Mixta
-150 1700628 Marca de P&S E EUROREPAR 12 Mixta
-151 1700629 Marca de P&S EMBOCLUB 9 Denominativa
-152 1700630 Marca de P&S Chente Morales 41 Mixta
-153 1700631 Marca de P&S EMBOCLUB 35 Denominativa
-154 1700632 Marca de P&S DELBEST 9 Mixta
-155 1700633 Marca de P&S REAL COFFEE BRUNCH 30 y 43 Denominativa
+116 1700824 Marca de P&S HaziaGlobal 35 Denominativa
+117 1700825 Marca de P&S BALöKER 42 Mixta
+118 1700826 Marca de P&S BARRIO CHICK'EN MR.BARRIO 28 y 35 Mixta
+119 1700827 Marca de P&S Costa Energy 30 Denominativa
+120 1700828 Frase prop. de marca de P&SClub Social Comidístico 30, 35 y 43 Denominativa
+121 1700829 Marca de P&S AURELYS 5 Denominativa
+122 1700830 Marca de P&S SAL DE ANGEL PURE AND NATURAL 30 Denominativa
+123 1700831 Marca de P&S Ambrosoli Energy 30 Denominativa
+124 1700832 Marca de P&S Besakih 14 Denominativa
+125 1700833 Marca de P&S SAL DE ANGEL ATACAMIS 30 Denominativa
+126 1700834 Marca de P&S LA WAFFLERIA ENDULZA TU VIDA 43 Mixta
+127 1700835 Marca de P&S TESLA ROBOTAXI 9 y 12 Denominativa
+128 1700836 Marca de P&S NAVEE 12 Mixta
+129 1700837 Marca de P&S DUO 18 Denominativa
+130 1700838 Marca de P&S AURORA 39 y 40 Denominativa
+131 1700839 Marca de P&S foi 14 Denominativa
+132 1700840 Marca de P&S PREVSOUL 44 Mixta
+133 1700841 Marca de P&S DOGGIS BIGBAJON 28 y 35 Mixta
+134 1700842 Marca de P&S CLINICA ONE 44 Denominativa
+135 1700843 Marca de P&S THEIA 3 Mixta
+136 1700844 Marca de P&S DOGGIS DOGGONAZO 28 y 35 Mixta
+137 1700845 Marca de P&S EFIKAST 36 Denominativa
+138 1700846 Marca de P&S JUAN MAESTRO EL MÁSTER 28 y 35 Mixta
+139 1700847 Marca de P&S CLÍNICA NORTE D&E 44 Mixta
+140 1700848 Marca de P&S KAYROX SPORT 5 Mixta
+141 1700849 Marca de P&S TOMMY BEANS BURROTOTE 28 y 35 Mixta
+142 1700850 Marca de P&S Ropa Los Dominicos 3 Chillán 35 Mixta
+143 1700851 Marca de P&S KLAR VITAMINS 5 Denominativa
+144 1700852 Marca de P&S KREA SOLUTIONS 6, 35 y 40 Denominativa
+145 1700853 Marca de P&S LYMPHORIA 5 Mixta
+146 1700854 Marca de P&S WEI XIANG YUAN XING YUN NONG FU 29 y 30 Mixta
+147 1700855 Marca de P&S CRYSTAL APP 9 y 42 Denominativa
+148 1700856 Marca de P&S CRUZ DE MALTA 30 Mixta
+149 1700857 Marca de P&S LATAM CORPORATE 35 y 39 Denominativa
+150 1700858 Marca de P&S BASSO 7 Mixta
+151 1700859 Marca de P&S MNK INTERNATIONAL 36 Mixta
+152 1700860 Marca de P&S Sof Mar Araucanía 6 Mixta
+153 1700861 Marca de P&S WEI SHI DA 30 Mixta
+154 1700862 Marca de P&S CGS ALMA 9, 35 y 42 Denominativa
+155 1700863 Marca de P&S ANDES DIRECTIONAL DRILLING 7, 37 y 42 Denominativa
 5
-156 1700634 Marca de P&S NICE! 35 y 41 Denominativa
-157 1700635 Marca de P&S BESTIA NEGRA ORIGEN 33 Mixta
-158 1700636 Marca de P&S Caviar de la Patagonia 29 Denominativa
-159 1700637 Marca de P&S PHOENIX RESEARCH 42 Denominativa
-160 1700638 Marca de P&S CHAMPS 35 y 41 Mixta
-161 1700639 Marca de P&S SENEX SPORT RECOVERY & WELLNESS 41 y 44 Mixta
-162 1700640 Marca de P&S SELK’NAM CRAFT BEER’S 41 Mixta
-163 1700641 Marca de P&S UNIFORMA 35 Denominativa
-164 1700642 Marca de P&S JAMCO 37 Mixta
-165 1700643 Marca de P&S GF EXPORT 35 Denominativa
-166 1700644 Marca de P&S SELK’NAM CRAFT BEER’S 43 Mixta
-167 1700645 Marca de P&S BC Tecnología 35 y 42 Mixta
-168 1700646 Marca de P&S GNOCER 42 Denominativa
-169 1700647 Marca de P&S Opera IQ 42 Denominativa
-170 1700648 Marca de P&S OTAKUTON 35 y 41 Denominativa
-171 1700649 Marca de P&S Ayün Lemu 43 Mixta
-172 1700650 Marca de P&S FRACTTAL 9 Mixta
-173 1700651 Marca de P&S FARO RED 9 y 42 Denominativa
-174 1700652 Marca de P&S SOLARHUB 37 Denominativa
-175 1700653 Marca de P&S FRACTTAL 9 Denominativa
-176 1700654 Marca de P&S SUPLAPET 5 Denominativa
-177 1700655 Marca de P&S CABAÑAS CASAS DEL VALLE 43 Mixta
-178 1700656 Marca de P&S ALMAHUE 36, 37 y 42 Denominativa
-179 1700657 Marca de P&S SUN DAY RED 18, 25 y 28 Mixta
-180 1700658 Marca de P&S EF CAPITAL GROUP 36 Denominativa
-181 1700659 Marca de P&S HidroPuro 31 y 35 Denominativa
-182 1700660 Marca de P&S OPTICA ALEMANA 38 Mixta
-183 1700661 Marca de P&S LIFOODS FREEZE DRY NATURALMENTE MEJOR 35 Mixta
-184 1700662 Marca de P&S TAYUR 29 Mixta
-185 1700663 Marca de P&S SERVIGEN CHILE 37 Mixta
-186 1700664 Marca de P&S RPM CHILE 37 Mixta
-187 1700665 Marca de P&S MUNDO FRAGANCIAS 35 Mixta
-188 1700666 Marca de P&S FORTIS 43 Denominativa
-189 1700667 Marca de P&S El galpón discoteque 41 Mixta
-190 1700668 Marca de P&S SLUGBOHR 8 y 35 Denominativa
-191 1700669 Marca de P&S DIVINUM 3 Mixta
-192 1700670 Marca de P&S MLS SERVICIOS INTEGRALES 39 Mixta
-193 1700671 Marca de P&S Sensroot 42 y 44 Denominativa
+156 1700864 Marca de P&S HESHAN ZAIZAI 29 Mixta
+157 1700865 Marca de P&S Aberrante 35 y 41 Denominativa
+158 1700866 Marca de P&S NAVIDAD ILUMINADA 35 y 41 Denominativa
+159 1700867 Marca de P&S LEVEN MOOI 3 Denominativa
+160 1700868 Marca de P&S Puerto Dulce 35 Denominativa
+161 1700869 Marca de P&S FOCUSING FENÓMENO 41 Denominativa
+162 1700870 Marca de P&S Caja Blanca 41 Mixta
+163 1700871 Marca de P&S AutomotorasChile.cl 35 Mixta
+164 1700872 Marca de P&S INTOLERANTES 38 y 41 Denominativa
+165 1700873 Marca de P&S INSPIRA MUJER 35 y 41 Mixta
+166 1700874 Marca de P&S EXAMCLOUD 42 Denominativa
+167 1700875 Marca de P&S Bruto kitchen and bar 43 Mixta
+168 1700876 Marca de P&S GeoDecision 41 y 42 Denominativa
+169 1700877 Marca de P&S soapyseguros 36 Denominativa
+170 1700878 Marca de P&S DRAKE 55 33 y 35 Mixta
+171 1700879 Marca de P&S SHI BA ZI ZUO 8 Mixta
+172 1700880 Marca de P&S KALEDOSCOPIO 42 Denominativa
+173 1700881 Marca de P&S URBANCHIC 35 Mixta
+174 1700882 Marca de P&S MYRO 28 Denominativa
+175 1700883 Marca de P&S PlanProfe 42 Mixta
+176 1700884 Marca de P&S Destrucción Creativa 41 Mixta
+177 1700885 Marca de P&S Zurys 35 y 43 Mixta
+178 1700886 Marca de P&S Tu Respiro Legal 45 Mixta
+179 1700887 Marca de P&S NOTTI 20 Denominativa
+180 1700888 Marca de P&S N NEAR ÓPTICA 10 y 35 Mixta
+181 1700889 Marca de P&S Okapi Blue 9, 41 y 42 Mixta
+182 1700890 Marca de P&S Tool Center 35 Mixta
+183 1700891 Marca de P&S BriTechX 35 y 42 Mixta
+184 1700892 Marca de P&S Agradecida 18 Mixta
+185 1700893 Marca de P&S FuzFuz 9 y 42 Mixta
+186 1700894 Marca de P&S Drivers Chile 38 y 42 Mixta
+187 1700895 Marca de P&S LAWJUSTO ACADAEMIA ONLINE DE DERECHO 41 Mixta
+188 1700896 Marca de P&S Agradecida 35 Mixta
+189 1700897 Marca de P&S ARSO SPA 35 y 42 Mixta
+190 1700898 Marca de P&S BRUTOX 28 y 35 Denominativa
+191 1700899 Marca de P&S HOSTAL PATAGONIA TEMUCO 43 Mixta
+192 1700900 Marca de P&S PrecioYA 42 Denominativa
+193 1700901 Marca de P&S SalmoXanthin 2 Mixta
