@@ -401,6 +401,24 @@
    "tipo": "2",
    "marcas": 856,
    "coincidencias": 0
+  },
+  "32255282-48e7-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-20",
+   "tipo": "5",
+   "marcas": 441,
+   "coincidencias": 1
+  },
+  "d3e0a459-46e7-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-23",
+   "tipo": "2",
+   "marcas": 1303,
+   "coincidencias": 2
+  },
+  "2837451a-07e8-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-23",
+   "tipo": "5",
+   "marcas": 292,
+   "coincidencias": 1
   }
  },
  "vistos": [
@@ -410,6 +428,8 @@
   "17ced549-eace-f111-895b-040973dcfef1|1687168|Amor por la Marca",
   "1d624967-8bc1-f111-8959-040973dcfef1|516681|APM",
   "1d624967-8bc1-f111-8959-040973dcfef1|516681|Amor por la Marca",
+  "2837451a-07e8-f111-895b-040973dcfef1|1701303|Amor por la Marca",
+  "32255282-48e7-f111-895b-040973dcfef1|519970|Amor por la Marca",
   "344d2971-1be4-f111-895b-040973dcfef1|1700637|EOL Research",
   "40b31537-3fdc-f111-895b-040973dcfef1|519040|APM",
   "40b31537-3fdc-f111-895b-040973dcfef1|519040|Amor por la Marca",
@@ -430,6 +450,8 @@
   "9fba8f51-0fdd-f111-895b-040973dcfef1|1698399|EOL Research",
   "a30041b6-8ecc-f111-8959-040973dcfef1|1671098|Amor por la Marca",
   "a30041b6-8ecc-f111-8959-040973dcfef1|1675616|Amor por la Marca",
+  "d3e0a459-46e7-f111-895b-040973dcfef1|1670948|Amor por la Marca",
+  "d3e0a459-46e7-f111-895b-040973dcfef1|1680446|Amor por la Marca",
   "ea0d0b38-21ce-f111-895b-040973dcfef1|1676279|Amor por la Marca",
   "eb887b8a-0ec7-f111-8959-040973dcfef1|1675331|Amor por la Marca",
   "f1ce18f5-e2d9-f111-895b-040973dcfef1|1698687|Amor por la Marca",
@@ -440,18 +462,18 @@
   "f83d9c62-6ad4-f111-895b-040973dcfef1|1661867|Amor por la Marca"
  ],
  "huella_claves": "44d0eaa1d15a6ea054a7ac8da9566c1e2fd8b642",
- "ultima_revision": "2026-11-23 10:37",
+ "ultima_revision": "2026-11-24 10:32",
  "fallos_seguidos": 0,
  "acumulado": {
-  "marcas": 45571,
-  "docs": 67,
-  "coincidencias": 32
+  "marcas": 47607,
+  "docs": 70,
+  "coincidencias": 36
  },
  "ultimo_resumen": {
-  "cuando": "2026-11-21 10:14",
-  "documentos": 2,
-  "marcas": 1204,
-  "solicitudes": 1114,
-  "nuevas": 0
+  "cuando": "2026-11-24 10:32",
+  "documentos": 3,
+  "marcas": 2036,
+  "solicitudes": 1946,
+  "nuevas": 4
  }
 }
