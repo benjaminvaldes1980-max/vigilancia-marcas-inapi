@@ -419,6 +419,18 @@
    "tipo": "5",
    "marcas": 292,
    "coincidencias": 1
+  },
+  "c4e3ce96-0fe8-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-24",
+   "tipo": "2",
+   "marcas": 919,
+   "coincidencias": 2
+  },
+  "ea2805c6-d4e8-f111-895b-040973dcfef1": {
+   "fecha": "2026-11-24",
+   "tipo": "5",
+   "marcas": 331,
+   "coincidencias": 0
   }
  },
  "vistos": [
@@ -450,6 +462,8 @@
   "9fba8f51-0fdd-f111-895b-040973dcfef1|1698399|EOL Research",
   "a30041b6-8ecc-f111-8959-040973dcfef1|1671098|Amor por la Marca",
   "a30041b6-8ecc-f111-8959-040973dcfef1|1675616|Amor por la Marca",
+  "c4e3ce96-0fe8-f111-895b-040973dcfef1|1663595|EOL Research",
+  "c4e3ce96-0fe8-f111-895b-040973dcfef1|1698687|Amor por la Marca",
   "d3e0a459-46e7-f111-895b-040973dcfef1|1670948|Amor por la Marca",
   "d3e0a459-46e7-f111-895b-040973dcfef1|1680446|Amor por la Marca",
   "ea0d0b38-21ce-f111-895b-040973dcfef1|1676279|Amor por la Marca",
@@ -462,18 +476,18 @@
   "f83d9c62-6ad4-f111-895b-040973dcfef1|1661867|Amor por la Marca"
  ],
  "huella_claves": "44d0eaa1d15a6ea054a7ac8da9566c1e2fd8b642",
- "ultima_revision": "2026-11-24 10:32",
+ "ultima_revision": "2026-11-25 10:39",
  "fallos_seguidos": 0,
  "acumulado": {
-  "marcas": 47607,
-  "docs": 70,
-  "coincidencias": 36
+  "marcas": 48857,
+  "docs": 72,
+  "coincidencias": 38
  },
  "ultimo_resumen": {
-  "cuando": "2026-11-24 10:32",
-  "documentos": 3,
-  "marcas": 2036,
-  "solicitudes": 1946,
-  "nuevas": 4
+  "cuando": "2026-11-25 10:39",
+  "documentos": 2,
+  "marcas": 1250,
+  "solicitudes": 1134,
+  "nuevas": 2
  }
 }
